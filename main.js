@@ -1,3 +1,4 @@
+// ლექცია 7
 // then catch
 function makeToys(){
     return new Promise((resolve, reject)=>{
